@@ -1,0 +1,35 @@
+body{
+    background-color: lightpink;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+.header_div{
+    background-color: white;
+    color: black;
+    
+}
+.header_div p{
+    font-family: Arial, Helvetica, sans-serif;
+    letter-spacing: 2px;
+    color: darkorange;
+    font-size: 12px;
+    font-weight: bold;
+}
+.main_div button{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-top: 30px;
+    width: 130px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+}
+.copyright_footer{
+    position: fixed;
+    background-color: lightblue;
+    color: black;
+    bottom: 0;
+    width: 100%;
+    font-size: 18px;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px black;
+}
